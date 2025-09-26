@@ -4,11 +4,16 @@
 Este projeto foi desenvolvido como parte de um exercício prático para treinar conceitos básicos de JavaScript. A proposta foi criar uma interface funcional de conversão de moeda, aplicando lógica simples e manipulação de DOM para tornar a experiência interativa e intuitiva. </p>
 
 <p> O desafio consistiu em implementar as seguintes funcionalidades:
-- 🔢 Validação de entrada: o campo de valor aceita apenas números, evitando erros na conversão.
-- 💵 Cotação fixa: foi utilizada uma taxa de câmbio estática para simular a conversão de Dólar Americano (USD) para Real Brasileiro (BRL).
-- 🔄 Conversão de moeda: cálculo automático do valor convertido com base na cotação definida.
-- 🇧🇷 Formatação brasileira: o resultado é exibido no formato monetário brasileiro (R$), com separadores e casas decimais corretas.
-- 👁️ Exibir/ocultar resultado: o usuário pode visualizar ou esconder o valor convertido com um clique, tornando a interface mais dinâmica.
+- 🔢 Validação de entrada: o campo de valor aceita apenas números, evitando erros na conversão.  
+
+- 💵 Cotação fixa: foi utilizada uma taxa de câmbio estática para simular a conversão de Dólar Americano (USD) para Real Brasileiro (BRL).  
+
+- 🔄 Conversão de moeda: cálculo automático do valor convertido com base na cotação definida.  
+
+- 🇧🇷 Formatação brasileira: o resultado é exibido no formato monetário brasileiro (R$), com separadores e casas decimais corretas.  
+
+- 👁️ Exibir/ocultar resultado: o usuário pode visualizar ou esconder o valor convertido com um clique, tornando a interface mais dinâmica.  
+
 
 🛠️ Tecnologias Utilizadas
 - HTML
