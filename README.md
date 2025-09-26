@@ -7,13 +7,13 @@ Este projeto foi desenvolvido como parte de um exercício prático para treinar 
 
 - 🔢 Validação de entrada: o campo de valor aceita apenas números, evitando erros na conversão.  
 
-- 💵 Cotação fixa: foi utilizada uma taxa de câmbio estática para simular a conversão de Dólar Americano (USD) para Real Brasileiro (BRL).  
+- 💵 Cotação fixa: foi utilizada uma taxa de câmbio estática para simular a conversão de Dólar Americano (USD), Euro (€) e Libera Esterlina (£) para Real Brasileiro (BRL).  
 
 - 🔄 Conversão de moeda: cálculo automático do valor convertido com base na cotação definida.  
 
 - 🇧🇷 Formatação brasileira: o resultado é exibido no formato monetário brasileiro (R$), com separadores e casas decimais corretas.  
 
-- 👁️ Exibir/ocultar resultado: o usuário pode visualizar ou esconder o valor convertido com um clique, tornando a interface mais dinâmica.  
+- 👁️ Exibir/ocultar resultado: o resultado da equação fica escondido aguardando o "submit" do usuário.  
 
 
 🛠️ Tecnologias Utilizadas
